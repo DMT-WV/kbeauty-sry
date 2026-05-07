@@ -1,0 +1,309 @@
+<!DOCTYPE html> <html lang="ko">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>써리점 K-Beauty 매대 개선 전략</title>
+<style> :root{ --ink:#1f2933; --muted:#62717f; --line:#d9e2ec; --bg:#f7faf8; --green:#6f9382; --green2:#e7f0eb; --beige:#f4efe6; --accent:#b46b4a; --red:#c44949; } *{box-sizing:border-box} body{margin:0;background:var(--bg);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans KR",Arial,sans-serif;color:var(--ink);line-height:1.72} .page{max-width:1120px;margin:0 auto;padding:48px 28px 80px} .cover{background:#fff;border:1px solid var(--line);border-radius:22px;padding:46px 52px;margin-bottom:28px;box-shadow:0 12px 36px rgba(31,41,51,.06)} .eyebrow{font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--green);font-weight:800;margin-bottom:14px} h1{font-size:34px;line-height:1.25;margin:0 0 18px;font-weight:850;letter-spacing:-.04em} .subtitle{font-size:18px;color:var(--muted);max-width:860px;margin-bottom:22px} .meta{display:flex;gap:10px;flex-wrap:wrap;margin-top:20px}.pill{background:var(--green2);color:#355b4a;border:1px solid #cadecf;border-radius:999px;padding:7px 13px;font-size:13px;font-weight:700} .toc,.card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:28px 32px;margin:18px 0;box-shadow:0 8px 26px rgba(31,41,51,.045)} h2{font-size:25px;margin:0 0 14px;padding-bottom:11px;border-bottom:2px solid var(--green2);letter-spacing:-.03em} h3{font-size:19px;margin:24px 0 8px;letter-spacing:-.025em} h4{font-size:16px;margin:18px 0 6px;color:#375b4b} p{margin:8px 0} ul{margin:8px 0 12px 20px;padding:0} li{margin:3px 0}.small{font-size:13px;color:var(--muted)} table{border-collapse:collapse;width:100%;margin:14px 0 20px;font-size:14px;background:#fff} th,td{border:1px solid var(--line);padding:10px 12px;text-align:left;vertical-align:top} th{background:#eef6f1;font-weight:800;color:#2d5545}.num{text-align:right;white-space:nowrap}.good{color:#1e7c4c;font-weight:800}.warn{color:#a65a00;font-weight:800}.risk{color:#b42318;font-weight:800} .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.three{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}.box{border:1px solid var(--line);border-radius:14px;padding:18px;background:#fbfdfb}.box strong{display:block;margin-bottom:6px;color:#375b4b}.quote{border-left:5px solid var(--green);background:#f8fbf9;padding:16px 18px;margin:14px 0;border-radius:10px}.callout{background:var(--beige);border:1px solid #e4d6be;border-radius:14px;padding:18px 20px;margin:16px 0}.danger{background:#fff5f5;border-color:#f3c1c1}.success{background:#f2faf5;border-color:#c9e8d5}.code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;background:#f2f6f4;border:1px solid var(--line);padding:10px 12px;border-radius:10px;display:block;margin:8px 0;white-space:pre-wrap} .toc ol{columns:2;margin:8px 0 0 22px}.toc li{break-inside:avoid;margin-bottom:6px}.footer{margin-top:26px;color:var(--muted);font-size:12px;text-align:center}.tag{display:inline-block;background:#f0f5f2;border:1px solid var(--line);border-radius:8px;padding:2px 7px;font-size:12px;font-weight:700;color:#48695b} @media print{body{background:#fff}.page{max-width:none;padding:20px}.card,.cover,.toc{box-shadow:none;break-inside:avoid}.toc ol{columns:1}} @media(max-width:800px){.grid,.three{grid-template-columns:1fr}.toc ol{columns:1}.cover{padding:30px 24px}.page{padding:24px 14px}} </style>
+<style>
+html { scroll-behavior: smooth;
+}
+</style><style>
+@media (max-width: 900px) { .toc-columns { column-count: 1 !important; }
+}
+</style></head>
+<body>
+<main class="page">
+<section class="cover">
+<div class="eyebrow">Surrey Hannam · K-Beauty Merchandising Strategy</div>
+<h1 id="section-1">써리점 K-Beauty 매대 개선 전략</h1><div style="
+padding:24px;
+margin:24px 0;
+background:#f7f7f7;
+border-radius:16px;
+border:1px solid #ddd;
+"><h2>목차</h2><div style=" column-count: 2; column-gap: 48px; padding-top: 12px; "><ul style=" list-style:none; padding-left:0; margin:0; line-height:1.9; "><li style="font-weight:700; margin-top:10px;"><a href="#section-1" style="text-decoration:none; color:#1a4d8f;">써리점 K-Beauty 매대 개선 전략</a></li><li style="padding-left:16px; font-weight:600;"><a href="#section-3" style="text-decoration:none; color:#1a4d8f;">1. Executive Summary</a></li><li style="padding-left:16px; font-weight:600;"><a href="#section-4" style="text-decoration:none; color:#1a4d8f;">2. 프로젝트 배경과 핵심 판단</a></li><li style="padding-left:16px; font-weight:600;"><a href="#section-5" style="text-decoration:none; color:#1a4d8f;">3. SRY 4개월 판매데이터 진단</a></li><li style="padding-left:16px; font-weight:600;"><a href="#section-6" style="text-decoration:none; color:#1a4d8f;">4. SRY 고객 구조 &amp; 멤버십 인사이트</a></li><li style="padding-left:32px; color:#666;"><a href="#section-7" style="text-decoration:none; color:#1a4d8f;">SRY를 “비한국인 K-Beauty 입문 허브”로 봐야 하는 이유</a></li><li style="padding-left:32px; color:#666;"><a href="#section-8" style="text-decoration:none; color:#1a4d8f;">매대 전략에 반영해야 할 포인트</a></li><li style="padding-left:16px; font-weight:600;"><a href="#section-9" style="text-decoration:none; color:#1a4d8f;">5. 마트형 뷰티존은 어떻게 운영해야 하는가</a></li><li style="padding-left:32px; color:#666;"><a href="#section-10" style="text-decoration:none; color:#1a4d8f;">마트형 뷰티 운영 핵심</a></li><li style="padding-left:16px; font-weight:600;"><a href="#section-11" style="text-decoration:none; color:#1a4d8f;">6. 써리점 실제 매대 구조 활용 방향</a></li><li style="padding-left:32px; color:#666;"><a href="#section-12" style="text-decoration:none; color:#1a4d8f;">현재 매대 장점</a></li><li style="padding-left:32px; color:#666;"><a href="#section-13" style="text-decoration:none; color:#1a4d8f;">현재 매대 보완 필요점</a></li><li style="padding-left:16px; font-weight:600;"><a href="#section-14" style="text-decoration:none; color:#1a4d8f;">7. SKU 및 브랜드 운영 전략</a></li><li style="padding-left:32px; color:#666;"><a href="#section-15" style="text-decoration:none; color:#1a4d8f;">SKU 전략</a></li><li style="padding-left:32px; color:#666;"><a href="#section-16" style="text-decoration:none; color:#1a4d8f;">브랜드 전략</a></li><li style="padding-left:16px; font-weight:600;"><a href="#section-17" style="text-decoration:none; color:#1a4d8f;">8. Planogram 방향과 존 구성</a></li><li style="padding-left:32px; color:#666;"><a href="#section-18" style="text-decoration:none; color:#1a4d8f;">페이싱 운영 원칙</a></li><li style="padding-left:16px; font-weight:600;"><a href="#section-19" style="text-decoration:none; color:#1a4d8f;">9. 가격표·세일 노출 전략</a></li><li style="padding-left:32px; color:#666;"><a href="#section-20" style="text-decoration:none; color:#1a4d8f;">권장 노출 비율</a></li><li style="padding-left:16px; font-weight:600;"><a href="#section-21" style="text-decoration:none; color:#1a4d8f;">10. POP·간판·QR 제작물 구성</a></li><li style="padding-left:32px; color:#666;"><a href="#section-22" style="text-decoration:none; color:#1a4d8f;">필수 제작물 패키지</a></li><li style="padding-left:32px; color:#666;"><a href="#section-23" style="text-decoration:none; color:#1a4d8f;">주요 문구 예시</a></li><li style="padding-left:16px; font-weight:600;"><a href="#section-24" style="text-decoration:none; color:#1a4d8f;">11. LED Light Box 간판 제작 방향</a></li><li style="padding-left:32px; color:#666;"><a href="#section-25" style="text-decoration:none; color:#1a4d8f;">권장 구조</a></li><li style="padding-left:32px; color:#666;"><a href="#section-26" style="text-decoration:none; color:#1a4d8f;">DIY 주의사항</a></li><li style="padding-left:16px; font-weight:600;"><a href="#section-27" style="text-decoration:none; color:#1a4d8f;">12. 색조 카테고리 운영 인사이트</a></li><li style="padding-left:32px; color:#666;"><a href="#section-28" style="text-decoration:none; color:#1a4d8f;">색조를 조심해야 하는 이유</a></li><li style="padding-left:32px; color:#666;"><a href="#section-29" style="text-decoration:none; color:#1a4d8f;">마트형에 적합한 색조</a></li><li style="padding-left:16px; font-weight:600;"><a href="#section-30" style="text-decoration:none; color:#1a4d8f;">13. 회원 구매 데이터 활용 방향</a></li><li style="padding-left:32px; color:#666;"><a href="#section-31" style="text-decoration:none; color:#1a4d8f;">SRY 고객 데이터에서 도출되는 운영 방향</a></li><li style="padding-left:32px; color:#666;"><a href="#section-32" style="text-decoration:none; color:#1a4d8f;">실행 방식</a></li><li style="padding-left:32px; color:#666;"><a href="#section-33" style="text-decoration:none; color:#1a4d8f;">관리 KPI</a></li><li style="padding-left:16px; font-weight:600;"><a href="#section-34" style="text-decoration:none; color:#1a4d8f;">14. 직원 운영 매뉴얼</a></li><li style="padding-left:32px; color:#666;"><a href="#section-35" style="text-decoration:none; color:#1a4d8f;">Daily Reset</a></li><li style="padding-left:32px; color:#666;"><a href="#section-36" style="text-decoration:none; color:#1a4d8f;">고객 응대 기본 멘트</a></li><li style="padding-left:32px; color:#666;"><a href="#section-37" style="text-decoration:none; color:#1a4d8f;">금지사항</a></li><li style="padding-left:16px; font-weight:600;"><a href="#section-38" style="text-decoration:none; color:#1a4d8f;">15. 실행 로드맵과 KPI</a></li><li style="padding-left:32px; color:#666;"><a href="#section-39" style="text-decoration:none; color:#1a4d8f;">핵심 KPI</a></li><li style="padding-left:16px; font-weight:600;"><a href="#section-40" style="text-decoration:none; color:#1a4d8f;">16. 최종 결론</a></li></ul></div></div>
+<p class="subtitle">실제 ㄱ자 매대 구조와 SRY 판매·고객 데이터를 기준으로 정리한 매대 운영, 진열, 가격표, POP, QR, LED 간판, 색조 운영 실행안</p>
+<div class="meta">
+<span class="pill">마트형 K-Beauty 편집존</span><span class="pill">실행 기준 포함</span>
+</div>
+</section>
+<section class="card">
+<h2 id="section-3">1. Executive Summary</h2>
+<p>써리점 K-Beauty 매대 개선의 핵심은 단순히 화장품 SKU를 더 많이 진열하는 것이 아니라, 마트 환경에 맞는 <strong>“쉽게 고르고 바로 집는 K-Beauty 편집존”</strong>으로 재설계하는 것임.</p>
+<p>현재 써리점 매대는 ㄱ자 형태의 화이트 매대, 조명, 넓은 벽면 구조를 보유하고 있어 기본 구조 자체는 활용 가치가 높음. 다만 현재 운영 방식은 SKU가 많고 가격표가 강하게 노출되어 전체적으로 “할인 진열대”처럼 보일 리스크가 있음.</p>
+<div class="quote"><strong>최종 방향:</strong> “가격 중심 매대”에서 “루틴 중심·추천 중심·득템형 K-Beauty 편집존”으로 전환</div>
+<table>
+<tr><th>구분</th><th>현재 인식</th><th>개선 후 목표 인식</th></tr>
+<tr><td>매대 성격</td><td>화장품이 많이 놓인 마트 진열대</td><td>마트 안 K-Beauty Routine Wall</td></tr>
+<tr><td>구매 방식</td><td>가격 보고 개별 구매</td><td>피부 고민 → 루틴 → 세트/단품 구매</td></tr>
+<tr><td>노출 방식</td><td>가격표·세일표 중심</td><td>BEST, ROUTINE, STAFF PICK, QR 추천 중심</td></tr>
+<tr><td>SKU 운영</td><td>넓게 분산</td><td>Top SKU 집중 + 저회전 SKU 별도 관리</td></tr>
+</table>
+<div class="callout success"><strong>SRY 고객 구조 인사이트:</strong> 써리점은 비한국인 멤버 비중 16.4%, 비한국인 멤버 298명, 비한국인 인보이스당 수량 1.93개로 확인되어, 비한국인 고객까지 확장 가능한 K-Beauty 입문형 루틴 매대 전략의 우선 적용 지점으로 판단됨.</div></section>
+<section class="card">
+<h2 id="section-4">2. 프로젝트 배경과 핵심 판단</h2>
+<p>마트 내부 화장품 매대는 일반 H&amp;B 스토어, 로드샵, 백화점 뷰티존과 다르게 운영되어야 함. 고객은 화장품을 사기 위해 일부러 방문한 것이 아니라 장보기 동선 중에 노출됨. 따라서 긴 설명, 브랜드 풀라인, 복잡한 색조 라인업보다 <strong>짧은 시간 안에 이해되고 바로 집을 수 있는 구조</strong>가 중요함.</p>
+<div class="grid">
+<div class="box"><strong>기회</strong><ul><li>장보기 고객은 이미 구매 모드에 있음</li><li>한남이라는 공간은 K-Beauty 정품 신뢰와 연결됨</li><li>계산대/주동선 근처 노출은 충동구매에 유리함</li><li>토너·크림·마스크팩·선케어는 반복 구매화 가능함</li></ul></div>
+<div class="box"><strong>리스크</strong><ul><li>가격표가 과하면 할인마트/저가 이미지로 보임</li><li>SKU가 많으면 고객 선택 피로도 증가</li><li>색조 과확장은 재고·위생·테스터 이슈 발생</li><li>매대가 비어 보이면 “안 팔리는 제품”으로 인식됨</li></ul></div>
+</div>
+</section>
+<section class="card">
+<h2 id="section-5">3. SRY 4개월 판매데이터 진단</h2>
+<p>2026년 1월~4월 SRY 화장품 판매데이터 기준으로 확인된 핵심 수치는 아래와 같음. 해당 수치는 써리점 매대 전략 수립 시 기준 데이터로 활용함.</p>
+<table>
+<tr><th>항목</th><th class="num">확인값</th><th>해석</th></tr>
+<tr><td>Branch</td><td class="num">SRY</td><td>써리점 기준</td></tr>
+<tr><td>SKU Row 수</td><td class="num">287개</td><td>매대 전체를 동일 비중으로 운영하기에는 과다</td></tr>
+<tr><td>총 판매수량</td><td class="num">4,424개</td><td>4개월 누적 판매수량</td></tr>
+<tr><td>총 매출</td><td class="num">$77,779.26</td><td>4개월 누적 매출</td></tr>
+<tr><td>Top 10 SKU 매출비중</td><td class="num">20.2%</td><td>상위 집중도 낮음</td></tr>
+<tr><td>Top 20 SKU 매출비중</td><td class="num">32.1%</td><td>Hero SKU 구조 약함</td></tr>
+<tr><td>Top 30 SKU 매출비중</td><td class="num">41.0%</td><td>메인 운영 후보군</td></tr>
+<tr><td>Top 50 SKU 매출비중</td><td class="num">54.9%</td><td>매출이 넓게 분산된 상태</td></tr>
+<tr><td>Top 100 SKU 매출비중</td><td class="num">76.4%</td><td>롱테일 SKU도 일정 매출을 보유</td></tr>
+</table>
+<div class="callout danger"><strong>데이터 진단:</strong> Top 10~30 집중도가 낮아 “강하게 밀리는 Hero SKU”가 부족함. 따라서 매대는 Top SKU를 더 잘 보이게 만들고, 저회전 SKU는 별도 테스트/보조존으로 분리해야 함.</div>
+</section>
+<section class="card">
+<h2 id="section-6">4. SRY 고객 구조 &amp; 멤버십 인사이트</h2>
+<p>써리점은 단순 매출 지점이 아니라 <strong>비한국인 고객까지 K-Beauty로 유입시킬 수 있는 입문형 거점 지점</strong>으로 해석할 수 있음.</p>
+<div class="callout success"><strong>핵심 판단:</strong> SRY는 비한국인 고객 비중과 구매 밀도가 상대적으로 높아, “설명형·루틴형·영문 병기형” 매대 전략의 효과가 가장 잘 검증될 수 있는 지점임.</div>
+<table>
+<tr><th>SRY 고객 구조 지표</th><th class="num">수치</th><th>전략적 의미</th></tr>
+<tr><td>2026년 1~4월 총 인보이스</td><td class="num">2,670건</td><td>4개월 기준 충분한 구매 데이터가 존재함</td></tr>
+<tr><td>멤버 비율</td><td class="num">72.5%</td><td>재방문/반복구매 기반 운영 가능성이 높음</td></tr>
+<tr><td>비멤버 비율</td><td class="num">27.5%</td><td>QR 기반 멤버 전환 및 입문 고객 확보 여지 존재</td></tr>
+<tr><td>한국인 멤버</td><td class="num">962명</td><td>기존 핵심 고객군은 안정적으로 존재함</td></tr>
+<tr><td>비한국인 멤버</td><td class="num">298명</td><td>전 지점 중 비한국인 고객 기반이 두드러지는 지점</td></tr>
+<tr><td>비한국인 멤버 비중</td><td class="num">16.4%</td><td>비한국인 K-Beauty 입문 수요가 이미 발생 중</td></tr>
+<tr><td>비한국인 인보이스당 수량</td><td class="num">1.93개</td><td>한국인 멤버보다 높은 구매 밀도 — 루틴/번들 전환 가능성 높음</td></tr>
+<tr><td>전체 평균 인보이스당 수량</td><td class="num">약 1.83개</td><td>2.5개 이상으로 올리는 것이 매대 개선 KPI가 될 수 있음</td></tr>
+</table>
+<h3 id="section-7">SRY를 “비한국인 K-Beauty 입문 허브”로 봐야 하는 이유</h3>
+<ul>
+<li>비한국인 멤버가 298명으로 확인되며, 비한국인 멤버 비중이 전 지점 중 상대적으로 높음.</li>
+<li>비한국인 고객의 인보이스당 수량이 1.93개로 높아, 단순 체험 구매가 아니라 복수 구매 가능성이 이미 나타남.</li>
+<li>현재 매대는 제품을 아는 고객에게는 작동하지만, K-Beauty 입문 고객에게는 설명·루틴·추천 구조가 부족함.</li>
+<li>따라서 SRY는 제품 나열보다 <strong>영문 병기 + 피부 고민별 추천 + QR 루틴 안내</strong>가 가장 필요한 지점임.</li>
+</ul>
+<h3 id="section-8">매대 전략에 반영해야 할 포인트</h3>
+<table>
+<tr><th>고객 데이터 인사이트</th><th>매대 반영 방향</th></tr>
+<tr><td>비한국인 고객 비중이 높음</td><td>POP/간판은 한글+영어 병기. “진정/Calming”, “보습/Hydration”처럼 직관적 표현 사용.</td></tr>
+<tr><td>인보이스당 수량이 높음</td><td>단품보다 2~3 Step Routine, Bundle &amp; Set, Mask + Serum 조합 제안 강화.</td></tr>
+<tr><td>비멤버 비율 27.5%</td><td>QR을 단순 정보가 아니라 멤버 전환·할인 확인·루틴 추천로 설계.</td></tr>
+<tr><td>리턴율은 낮은 수준</td><td>상품 만족도 문제보다는 구매 구조/추천 구조 개선이 우선.</td></tr>
+</table>
+<div class="quote"><strong>SRY 핵심 기회:</strong> “한국 고객이 이미 사는 K-Beauty”에서 “비한국인 고객도 쉽게 따라 살 수 있는 K-Beauty Routine Wall”로 확장하는 것.</div>
+</section>
+<section class="card">
+<h2 id="section-9">5. 마트형 뷰티존은 어떻게 운영해야 하는가</h2>
+<p>마트형 K-Beauty는 전문 뷰티 매장과 다르게 “짧은 체류 시간 안에 구매 결정을 만드는 구조”가 핵심임.</p>
+<table>
+<tr><th>구분</th><th>일반 뷰티매장</th><th>마트형 K-Beauty</th></tr>
+<tr><td>고객 목적</td><td>뷰티 제품 탐색</td><td>장보기 중 발견/충동구매</td></tr>
+<tr><td>구매 방식</td><td>브랜드 비교, 테스트, 상담</td><td>빠른 이해, 추천, 바로 선택</td></tr>
+<tr><td>매대 구조</td><td>브랜드별 풀라인</td><td>피부 고민·루틴별 큐레이션</td></tr>
+<tr><td>가격 노출</td><td>프리미엄/브랜드 중심</td><td>가격 접근성 + 추천 신뢰 균형</td></tr>
+<tr><td>운영 목표</td><td>체류시간 확대</td><td>구매장벽 낮추기, 객단가 상승, 반복구매</td></tr>
+</table>
+<h3 id="section-10">마트형 뷰티 운영 핵심</h3>
+<ul>
+<li>SKU를 늘리기보다 Top SKU의 페이싱을 확대함</li>
+<li>브랜드보다 피부 고민·루틴·효능 중심으로 보여줌</li>
+<li>가격은 보여주되, 가격만 보이게 만들지 않음</li>
+<li>마스크팩·립밤·핸드크림·선케어 등 충동구매형 SKU를 활용함</li>
+<li>QR은 단순 링크가 아니라 “내 피부 루틴 찾기”로 연결함</li>
+</ul>
+</section>
+<section class="card">
+<h2 id="section-11">6. 써리점 실제 매대 구조 활용 방향</h2>
+<p>써리점은 ㄱ자 형태의 화이트 매대와 상단 조명 구조를 갖고 있어 기존 구조를 완전히 철거하기보다, 간판·POP·선반 보강·페이싱 조정으로 충분히 개선 가능함.</p>
+<h3 id="section-12">현재 매대 장점</h3>
+<ul><li>화이트 기반 매대라 K-Beauty 톤과 맞음</li><li>ㄱ자 구조로 고객 동선상 시선 체류가 가능함</li><li>상단 조명과 벽면 구조가 있어 LED 간판 적용 가능함</li><li>좌/중앙/우측 영역을 나누기 쉬움</li></ul>
+<h3 id="section-13">현재 매대 보완 필요점</h3>
+<ul><li>가격표가 크고 많아 세일 진열대처럼 보임</li><li>SKU가 넓게 분산되어 제품별 존재감이 약함</li><li>각 존의 의미가 명확하지 않음</li><li>샘플·재고·더미 운영 기준이 없으면 비어 보일 가능성 있음</li></ul>
+<div class="quote">매대는 유지하되, “구조·시선·메시지·페이싱”을 새로 설계하는 방식이 적절함.</div>
+</section>
+<section class="card">
+<h2 id="section-14">7. SKU 및 브랜드 운영 전략</h2>
+<h3 id="section-15">SKU 전략</h3>
+<p>써리점은 287개 SKU가 판매되고 있으나, 모든 SKU를 동일하게 노출하면 고객 선택 피로도가 커지고 Hero SKU가 형성되지 않음. 매대는 Top 30~50 SKU 중심으로 운영하되, 나머지는 보조/테스트/재고소진으로 역할을 나눠야 함.</p>
+<table>
+<tr><th>SKU 그룹</th><th>역할</th><th>진열 방식</th><th>권장 페이싱</th></tr>
+<tr><td>Top 1~5</td><td>Hero SKU</td><td>중앙/코너/상단 가장 좋은 위치</td><td>6~8개 이상</td></tr>
+<tr><td>Top 6~10</td><td>메인 루틴 SKU</td><td>Hydration, Calming, Barrier 루틴 구성</td><td>5~6개</td></tr>
+<tr><td>Top 11~30</td><td>서브 핵심 SKU</td><td>좌우 Wing 또는 피부고민별 존</td><td>3~5개</td></tr>
+<tr><td>Top 31~50</td><td>보조/시즌 SKU</td><td>하단, Sale, Gift, Mask Zone</td><td>2~4개</td></tr>
+</table>
+<h3 id="section-16">브랜드 전략</h3>
+<p>브랜드 수는 상품명 기반 정제가 필요하므로 단순 카운트로 확정하면 안 됨. 다만 운영 관점에서는 브랜드 수를 무조건 많이 보여주는 것이 아니라, 고객이 신뢰할 수 있는 브랜드와 매출이 검증된 제품을 중심으로 “선택된 편집샵”처럼 보여야 함.</p>
+<ul><li>브랜드별 풀라인보다 피부고민별 큐레이션 우선</li><li>상위 브랜드는 Hero/루틴 존에서 반복 노출</li><li>소량 브랜드는 테스트존 또는 Gift/Beginner 존에 배치</li><li>매출 없는 브랜드는 정기적으로 축소 또는 제거 검토</li></ul>
+</section>
+<section class="card">
+<h2 id="section-17">8. Planogram 방향과 존 구성</h2>
+<p>실제 ㄱ자 매대는 3개 Wing 구조로 운영하는 것이 적절함. 고객이 매대를 보는 순간 “어디를 봐야 하는지”가 명확해야 함.</p>
+<div class="three">
+<div class="box"><strong>LEFT WING<br/><span class="tag">Skin Concern</span></strong><ul><li>진정 / 트러블</li><li>보습 / 장벽</li><li>미백 / 광채</li><li>입문 / 선물</li></ul></div>
+<div class="box"><strong>CENTER MN<br/><span class="tag">Hero + Routine</span></strong><ul><li>Top 1~5 Hero SKU</li><li>Hydration Routine</li><li>Calming / Acne</li><li>Bundle &amp; Set</li></ul></div>
+<div class="box"><strong>RIGHT WING<br/><span class="tag">Mask / Sale / Large</span></strong><ul><li>Mask Pack Wall</li><li>Weekly Special</li><li>Large Size</li><li>소형 색조/입문 제품</li></ul></div>
+</div>
+<h3 id="section-18">페이싱 운영 원칙</h3>
+<ul><li>한 SKU는 최소 3개 이상 보여야 “판매 제품”처럼 보임</li><li>Hero SKU는 6~8개 이상으로 가득 찬 느낌을 만들어야 함</li><li>마스크팩은 10~20개 단위로 볼륨감을 만들어야 함</li><li>뒤 공간은 비워도 되지만 전면은 항상 채워 보여야 함</li><li>비어 보이는 칸은 상품이 안 팔린다는 인식을 줌</li></ul>
+</section>
+<section class="card">
+<h2 id="section-19">9. 가격표·세일 노출 전략</h2>
+<p>현재처럼 대형 가격표와 세일표가 많으면 고객이 “항상 세일하는 매대”로 인식할 수 있음. 이 인식은 단기 구매에는 도움이 될 수 있으나 장기적으로 브랜드 가치와 매대 신뢰도를 떨어뜨릴 수 있음.</p>
+<div class="callout"><strong>핵심 판단:</strong> 세일 느낌은 유지하되, 전체 매대가 세일만 보이게 만들면 안 됨.</div>
+<table>
+<tr><th>구분</th><th>현재 방식</th><th>개선 방식</th></tr>
+<tr><td>일반 SKU</td><td>큰 가격표 중심</td><td>작은 가격표 + 루틴/효능 POP 보조</td></tr>
+<tr><td>Hero SKU</td><td>가격만 노출</td><td>BEST SELLER / STAFF PICK / 고객 추천 강조</td></tr>
+<tr><td>행사 SKU</td><td>모든 제품처럼 보임</td><td>진짜 행사 제품만 빨간색/큰 태그 허용</td></tr>
+<tr><td>세트/번들</td><td>개별 가격 중심</td><td>“함께 사면 더 이득” 메시지 강조</td></tr>
+</table>
+<h3 id="section-20">권장 노출 비율</h3>
+<p><span class="code">루틴/추천/브랜드 메시지 70% + 세일 강조 30%</span></p>
+<p>마트형 뷰티존은 “프리미엄 뷰티샵”도 아니고 “할인마트”도 아님. 가장 적절한 방향은 <strong>잘 정리된 득템형 K-Beauty 편집샵</strong>임.</p>
+</section>
+<section class="card">
+<h2 id="section-21">10. POP·간판·QR 제작물 구성</h2>
+<h3 id="section-22">필수 제작물 패키지</h3>
+<table>
+<tr><th>제작물</th><th>용도</th><th>추천 재질</th><th>비고</th></tr>
+<tr><td>상단 메인 간판</td><td>K-Beauty Zone 인식 형성</td><td>포맥스 5T + LED Light Box</td><td>가장 중요한 시각 장치</td></tr>
+<tr><td>Wing 사인</td><td>좌/중앙/우측 존 구분</td><td>포맥스 3T</td><td>Skin Concern / Routine / Mask &amp; Sale</td></tr>
+<tr><td>카테고리 헤더</td><td>Cleansing, Toner, Serum 등 구분</td><td>포맥스 3T 또는 아크릴</td><td>작고 깔끔하게</td></tr>
+<tr><td>Shelf Talker</td><td>BEST, STAFF PICK, NEW 등</td><td>PET 슬리브 또는 라미네이팅</td><td>가격표와 분리</td></tr>
+<tr><td>QR 스탠드</td><td>피부 루틴 추천 연결</td><td>아크릴 스탠드</td><td>종이 부착보다 고급감 있음</td></tr>
+<tr><td>바닥 QR 데칼</td><td>동선 유도</td><td>논슬립 바닥 스티커</td><td>선택사항</td></tr>
+</table>
+<h3 id="section-23">주요 문구 예시</h3>
+<div class="grid">
+<div class="box"><strong>Main Header</strong><p>Find Your K-Beauty Routine<br/>내 피부 루틴 찾기</p></div>
+<div class="box"><strong>QR Card</strong><p>Scan to Find Your Routine<br/>QR로 내 피부 루틴 확인</p></div>
+<div class="box"><strong>Best Seller</strong><p>Customer Favorite<br/>가장 많이 선택한 제품</p></div>
+<div class="box"><strong>Bundle</strong><p>Bundle &amp; Save<br/>함께 사면 더 이득</p></div>
+</div>
+</section>
+<section class="card">
+<h2 id="section-24">11. LED Light Box 간판 제작 방향</h2>
+<p>렌더링처럼 빛이 은은하게 비추는 간판은 매대 전체 퀄리티를 크게 올릴 수 있음. DIY 제작도 가능하나, 전원·배선·열 관리·안전성을 고려해야 함.</p>
+<h3 id="section-25">권장 구조</h3>
+<p><span class="code">포맥스 프레임 + 유백 아크릴 전면 + 내부 LED BAR + UV 출력 그래픽</span></p>
+<table>
+<tr><th>부품</th><th>추천 사양</th><th>역할</th></tr>
+<tr><td>프레임</td><td>포맥스 5T 또는 MDF</td><td>간판 박스 구조</td></tr>
+<tr><td>전면판</td><td>유백 아크릴 2T~3T</td><td>빛 확산, 고급감</td></tr>
+<tr><td>LED</td><td>COB LED BAR 또는 LED Strip</td><td>간판 내부 조명</td></tr>
+<tr><td>색온도</td><td>4000K~5000K</td><td>너무 노랗지 않은 깨끗한 빛</td></tr>
+<tr><td>그래픽</td><td>UV 출력 또는 반투명 필름 출력</td><td>문구/브랜드 이미지 표현</td></tr>
+</table>
+<h3 id="section-26">DIY 주의사항</h3>
+<ul><li>LED와 전면 아크릴 사이에 최소 3~5cm 거리 필요</li><li>너무 가까우면 LED 점이 그대로 보임</li><li>전선은 몰딩으로 숨기고 외부 노출을 최소화</li><li>상시 운영 매장이므로 과열과 전원 안정성 확인 필요</li></ul>
+</section>
+<section class="card">
+<h2 id="section-27">12. 색조 카테고리 운영 인사이트</h2>
+<p>현재 Phase에서는 스킨케어 중심 운영이 우선임. 다만 색조를 완전히 배제할 필요는 없음. 마트형 뷰티에서 색조는 메인 카테고리가 아니라 <strong>충동구매와 객단가 상승을 만드는 액센트</strong>로 운영해야 함.</p>
+<h3 id="section-28">색조를 조심해야 하는 이유</h3>
+<ul><li>색상/호수/텍스처로 인해 SKU가 급격히 증가함</li><li>테스터·발색·위생 관리가 어려움</li><li>과도하게 확장하면 드럭스토어형 잡화 느낌이 강해짐</li><li>재고 리스크와 유행 리스크가 큼</li></ul>
+<h3 id="section-29">마트형에 적합한 색조</h3>
+<table>
+<tr><th>추천 카테고리</th><th>이유</th><th>운영 방식</th></tr>
+<tr><td>립밤 / 틴티드 립</td><td>선택 부담 낮고 충동구매 가능</td><td>Right Wing 하단 또는 Gift Zone</td></tr>
+<tr><td>쿠션 Hero 2~3개</td><td>상위 제품만 노출 시 가능</td><td>풀라인 금지, 베스트 컬러 중심</td></tr>
+<tr><td>톤업 선크림 / 톤업 크림</td><td>스킨케어와 색조 중간 포지션</td><td>Sun Care/Beginner Zone</td></tr>
+<tr><td>핸드크림 / 미스트</td><td>마트형 충동구매에 적합</td><td>계산대 동선 또는 Right Wing</td></tr>
+</table>
+<div class="quote">권장 비율: 스킨케어 85~90% / 색조 10~15%</div>
+<p>색조는 “화장품 카테고리 확장”이 아니라 “스킨케어로 만든 신뢰에 추가 구매를 붙이는 장치”로 접근해야 함.</p>
+</section>
+<section class="card">
+<h2 id="section-30">13. 회원 구매 데이터 활용 방향</h2>
+<p>회원 구매 데이터는 단순 고객 구분용이 아니라, SRY 매대 운영을 “감”이 아닌 <strong>고객 유형별 구매 행동</strong>으로 관리하기 위한 운영 기반임. 특히 SRY는 비한국인 멤버 비중과 구매 밀도가 높기 때문에, 고객 데이터는 매대 구성·POP 언어·QR 콘텐츠·번들 전략의 근거로 활용해야 함.</p>
+<h3 id="section-31">SRY 고객 데이터에서 도출되는 운영 방향</h3>
+<ul>
+<li><strong>비한국인 고객 대응:</strong> 영문 POP와 직관적 피부 고민별 카테고리 필수.</li>
+<li><strong>반복구매 유도:</strong> 토너·크림·마스크팩·클렌저·선케어 중심으로 루틴화.</li>
+<li><strong>객단가 개선:</strong> 현재 약 1.8개 수준의 인보이스당 수량을 2.5개 이상으로 올리는 것을 목표로 설정.</li>
+<li><strong>멤버 전환:</strong> 비멤버 27.5% 구간을 QR 할인/루틴 추천/멤버 혜택 안내로 전환.</li>
+</ul>
+<h3 id="section-32">실행 방식</h3>
+<table>
+<tr><th>구분</th><th>운영 방식</th><th>예시</th></tr>
+<tr><td>한국인 멤버</td><td>검증된 Top SKU와 반복구매 SKU 중심</td><td>기존 인기 크림, 토너, 마스크팩 재구매 유도</td></tr>
+<tr><td>비한국인 멤버</td><td>피부 고민별 추천과 영문 루틴 카드 중심</td><td>Calming / Hydration / Brightening / Beginner</td></tr>
+<tr><td>비멤버</td><td>QR 기반 가입/할인/베스트셀러 안내</td><td>“Scan for Today’s K-Beauty Deals”</td></tr>
+<tr><td>입문 고객</td><td>복잡한 브랜드 설명보다 3-Step 루틴 제공</td><td>Cleanser → Toner/Serum → Cream</td></tr>
+</table>
+<h3 id="section-33">관리 KPI</h3>
+<ul>
+<li>SRY 화장품 인보이스당 수량: 현재 약 1.8개 수준 → 목표 2.5개+</li>
+<li>비한국인 고객 구매 비중: QR/영문 POP 도입 후 변화 추적</li>
+<li>멤버 전환: 비멤버 구매 고객 중 QR/프로모션 유입 비중 추적</li>
+<li>루틴 번들 판매율: 단품 대비 세트/조합 구매 비중 추적</li>
+</ul>
+<div class="callout success"><strong>핵심:</strong> SRY의 고객 구조는 “설명형 매대”가 필요한 근거임. 이 지점은 한국 고객만을 위한 화장품 코 아니라, 비한국인 고객까지 전환 가능한 K-Beauty 입문형 매대로 운영해야 함.</div>
+</section>
+<section class="card">
+<h2 id="section-34">14. 직원 운영 매뉴얼</h2>
+<h3 id="section-35">Daily Reset</h3>
+<ul><li>모든 제품은 오픈 전 전면으로 당겨 정렬</li><li>Hero SKU는 최소 5개 이상 유지</li><li>빈칸 발생 시 동일 SKU로 페이싱 유지</li><li>가격표와 POP 위치가 삐뚤어지지 않도록 정리</li><li>QR 카드 스캔 가능 여부 확인</li><li>샘플/테스터 운영 시 청결 상태 확인</li></ul>
+<h3 id="section-36">고객 응대 기본 멘트</h3>
+<ul><li>“피부 고민이 있으시면 루틴별로 추천드릴 수 있습니다.”</li><li>“처음 사용하시면 BEST 제품부터 보시면 좋습니다.”</li><li>“이 제품은 크림/토너와 같이 쓰는 루틴으로 많이 구매합니다.”</li></ul>
+<h3 id="section-37">금지사항</h3>
+<ul><li>제품 1개만 남긴 상태 방치 금지</li><li>샘플만 있고 실제 재고가 없어 보이는 진열 금지</li><li>모든 제품에 큰 세일표 부착 금지</li><li>저회전 SKU를 중앙에 임의 배치 금지</li></ul>
+</section>
+<section class="card">
+<h2 id="section-38">15. 실행 로드맵과 KPI</h2>
+<table>
+<tr><th>단계</th><th>내용</th><th>목표</th></tr>
+<tr><td>Step 1</td><td>SKU/재고 정리, Top SKU 확정</td><td>운영 상품군 압축</td></tr>
+<tr><td>Step 2</td><td>매대 존 구성, 선반/페이싱 조정</td><td>고객 동선에 맞는 구조 구축</td></tr>
+<tr><td>Step 3</td><td>간판/POP/QR 제작 및 설치</td><td>시각적 완성도 확보</td></tr>
+<tr><td>Step 4</td><td>직원 리셋 매뉴얼 운영</td><td>매대 상태 유지</td></tr>
+<tr><td>Step 5</td><td>2주/4주 판매 추적</td><td>SKU 승격/제거 결정</td></tr>
+</table>
+<h3 id="section-39">핵심 KPI</h3>
+<ul><li>K-Beauty 매대 총매출</li><li>Top 30 SKU 매출비중</li><li>Hero SKU 판매수량</li><li>마스크팩/번들 판매수량</li><li>객단가 변화</li><li>QR 스캔 수</li></ul>
+</section>
+<section class="card">
+<h2 id="section-40">16. 최종 결론</h2>
+<p>써리점 K-Beauty 매대 개선은 단순 디스플레이 변경이 아니라, 마트형 뷰티 운영 모델을 새로 만드는 프로젝트임.</p>
+<div class="quote"><strong>최종 핵심:</strong> 많이 보여주는 매대가 아니라, 잘 팔릴 제품을 더 잘 보이게 만들고 고객이 쉽게 집도록 설계하는 매대</div>
+<p>가격 경쟁력은 유지하되 전체 매대를 세일 진열대로 만들지 않고, 루틴·추천·BEST·QR을 통해 “마트 안 K-Beauty 편집샵”으로 보이게 해야 함. 스킨케어 중심으로 신뢰를 만들고, 마스크팩·선케어·입문 색조를 통해 충동구매와 객단가를 보완하는 구조가 가장 적절함.</p>
+<p>장기적으로는 써리점을 테스트 매장으로 운영한 뒤, 매출/회원/QR/KPI 데이터를 바탕으로 다른 지점으로 확장 가능한 표준 매대 모델로 발전시킬 수 있음.</p>
+</section>
+<div class="footer">Surrey Hannam K-Beauty Merchandising Strategy</div>
+</main>
+
+<style>
+#backToTop {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    background: #1f3f75;
+    color: white;
+    border: none;
+    border-radius: 999px;
+    padding: 12px 18px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.18);
+    z-index: 9999;
+    transition: all 0.2s ease;
+}
+#backToTop:hover {
+    background: #16325c;
+    transform: translateY(-2px);
+}
+</style>
+
+<button id="backToTop" onclick="window.scrollTo({top:0, behavior:'smooth'})">
+↑ 목차로 이동
+</button>
+
+</body>
+</html>
